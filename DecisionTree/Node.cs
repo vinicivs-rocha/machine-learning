@@ -1,11 +1,10 @@
 ﻿namespace DecisionTree;
 
-public abstract record class Node<TEdgeValue, TFeatureValue>(
-    string Name,
+public record class Node<TEdgeValue, TFeatureValue>(
     bool IsLeaf,
-    TEdgeValue? Edge,
-    List<Node<TEdgeValue, TFeatureValue>> Children,
-    Feature<TFeatureValue>? Feature
+    TEdgeValue Edge,
+    Feature<TFeatureValue>? Feature,
+    List<Node<TEdgeValue, TFeatureValue>> Children
 )
 {
 }
