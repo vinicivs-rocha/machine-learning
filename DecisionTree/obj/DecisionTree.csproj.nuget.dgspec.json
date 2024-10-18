@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/vinicivs-rocha/machine-learning/DecisionTree/DecisionTree.csproj": {}
+    "C:\\Users\\adasi\\RiderProjects\\machine-learning\\DecisionTree\\DecisionTree.csproj": {}
   },
   "projects": {
-    "/home/vinicivs-rocha/machine-learning/DecisionTree/DecisionTree.csproj": {
+    "C:\\Users\\adasi\\RiderProjects\\machine-learning\\DecisionTree\\DecisionTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vinicivs-rocha/machine-learning/DecisionTree/DecisionTree.csproj",
+        "projectUniqueName": "C:\\Users\\adasi\\RiderProjects\\machine-learning\\DecisionTree\\DecisionTree.csproj",
         "projectName": "DecisionTree",
-        "projectPath": "/home/vinicivs-rocha/machine-learning/DecisionTree/DecisionTree.csproj",
-        "packagesPath": "/home/vinicivs-rocha/.nuget/packages/",
-        "outputPath": "/home/vinicivs-rocha/machine-learning/DecisionTree/obj/",
+        "projectPath": "C:\\Users\\adasi\\RiderProjects\\machine-learning\\DecisionTree\\DecisionTree.csproj",
+        "packagesPath": "C:\\Users\\adasi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adasi\\RiderProjects\\machine-learning\\DecisionTree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/vinicivs-rocha/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\adasi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\adasi\\.dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
